@@ -1,2 +1,3 @@
 # PhosSer
-Prediction of serine phospholyzation using Transformer
+Motif identification of serine phosphorylation triggered mammalian diseases using explainable artificial intelligence
+
