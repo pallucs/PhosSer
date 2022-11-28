@@ -6,7 +6,7 @@ Motif identification of serine phosphorylation triggered mammalian diseases usin
 
 # Model Architecture
 
-[algo5 (1).drawio (3).pdf](https://github.com/pallucs/PhosSer/files/10101763/algo5.1.drawio.3.pdf)
+![image](https://user-images.githubusercontent.com/29173401/204228784-b37f32c0-847b-40a2-a02d-4acf0ad12a82.png)pdf)
 
 # Usage
  1. Clone PhosSer
